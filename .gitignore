@@ -1,0 +1,20 @@
+﻿## Сборка
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.csproj.user
+
+## NuGet
+packages/
+*.nupkg
+
+## Прочее
+Thumbs.db
+desktop.ini
+.DS_Store
